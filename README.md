@@ -12,6 +12,10 @@ face de quadra a face de quadra: não ter calçada, não ter rampa na esquina, e
 ele se empilha. A correlação entre "ter rampa" e "ter obstáculo" é de **−0,90** entre os
 96 distritos: onde falta rampa, também tem poste no meio e mais rua sem calçada nenhuma.
 
+## Publicado em
+
+<https://celsofilho123.github.io/Dash---DSV/>
+
 ## Como ler
 
 | Número | O que é |
